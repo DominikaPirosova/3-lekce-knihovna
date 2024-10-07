@@ -9,4 +9,4 @@ const kniha = {
 }
 
 
-document.body.innerHTML += "<p>Kniha: " + kniha.nazov + ", <br> Autor: " + kniha.autor + ", <br> Strany: " + kniha.strany + ", <br> Jazyk: " + kniha.jazyk + ", <br> Cena: " + kniha.cena + ", <br> Na Sklade: " + kniha.naSklade + "</p>"
+document.body.innerHTML += "<p>Kniha: " + kniha.nazov + ", <br> Autor: " + kniha.autor + ", <br> Strany: " + kniha.strany + ", <br> Jazyk: " + kniha.jazyk + ", <br> Cena: " + kniha.cena + " kč" + ", <br> Na Sklade: " + kniha.naSklade + "</p>"
